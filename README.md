@@ -1,6 +1,6 @@
 # Sentiment Analysis of DAWN News
 # Overview
-This project provides a comprehensive solution for sentiment analysis of news articles from DAWN News. The repository contains source code for both scraping data from the DAWN News website and performing sentiment analysis on the acquired data. The project includes various stages from data acquisition to model evaluation, utilizing advanced NLP techniques and machine learning models.
+In this project an in-depth sentiment analysis is done of news articles from DAWN News. The repository contains source code for both scraping data from the DAWN News website and performing sentiment analysis on the acquired data. The project includes various stages from data acquisition to model evaluation, utilizing advanced NLP techniques and machine learning models.
 
 # Features
 1. Web Scraper: Extracts news articles from the DAWN News website and stores the data in a .json file.
