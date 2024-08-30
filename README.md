@@ -21,12 +21,12 @@ This project provides a comprehensive solution for sentiment analysis of news ar
 
 # Methdology
 
-## Data Collection: News articles are scraped from DAWN News and stored in a .json file.
-## Preprocessing: The collected data undergoes preprocessing steps including stop words removal, lemmatization, and tokenization.
-## Sentiment Analysis:
-## Polarity Scores: Analyzes the sentiment polarity of each sentence.
-## TF-IDF: Utilizes TF-IDF for feature extraction and selection.
-## Model Training and Evaluation:
-## Model Implementation: Implements various machine learning models for sentiment classification.
-## N-grams Analysis: Incorporates n-grams to assess their impact on model performance.
-## Accuracy Assessment: Evaluates model accuracy to determine the effectiveness of each approach.
+1. Data Collection: News articles are scraped from DAWN News and stored in a .json file.
+2. Preprocessing: The collected data undergoes preprocessing steps including stop words removal, lemmatization, and tokenization.
+3. Sentiment Analysis:
+4. Polarity Scores: Analyzes the sentiment polarity of each sentence.
+5. TF-IDF: Utilizes TF-IDF for feature extraction and selection.
+6. Model Training and Evaluation:
+7. Model Implementation: Implements various machine learning models for sentiment classification.
+8. N-grams Analysis: Incorporates n-grams to assess their impact on model performance.
+9. Accuracy Assessment: Evaluates model accuracy to determine the effectiveness of each approach.
